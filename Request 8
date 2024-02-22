@@ -2,7 +2,7 @@
 output contains these fields sorted by the total_sold_quantity,
 Quarter
 total_sold_quantity*/
-SELECT CASE 
+SELECT CASE
             when month(date) in (9,10,11) THEN 'Q1'
             when month(date) in (12,1,2) THEN 'Q2'
             when month(date) in (3,4,5) THEN 'Q3'
