@@ -12,11 +12,5 @@ Imagine yourself as the applicant for this role and perform the following task
 3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
 4.    Be creative with your presentation, audio/video presentation will have more weightage.
 
-Other resources Provided:
 
-a.    Dataset required to provide 
-b.    Metadata
-c.    Hints (try not to use the hints to develop your skills quicker)
-d.    Sample questions and Presentation
- 
 
