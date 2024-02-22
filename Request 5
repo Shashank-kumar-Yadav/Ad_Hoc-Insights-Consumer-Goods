@@ -13,7 +13,7 @@ JOIN
     dim_product p ON s.product_code = p.product_code
 ORDER BY
     s.manufacturing_cost ASC
-LIMIT 1) -- Bottom 5 manufacturing costs
+LIMIT 1) 
 
 UNION ALL
 
@@ -27,4 +27,4 @@ JOIN
     dim_product p ON s.product_code = p.product_code
 ORDER BY
     s.manufacturing_cost DESC
-LIMIT 1) -- Top 5 manufacturing costs
+LIMIT 1) 
