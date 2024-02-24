@@ -12,5 +12,4 @@ Imagine yourself as the applicant for this role and perform the following task
 3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
 4.    Be creative with your presentation, audio/video presentation will have more weightage.
 
-Power Bi live dashboard - https://app.powerbi.com/view?r=eyJrIjoiMmJiZDUxNTMtNTM4MC00MWZmLTlkY2ItODk5MTY1YmJmMjY0IiwidCI6IjNiNDkxZDU4LWQyMjYtNDUwMC04ZDcyLTk5MGQyYjMyMTg0NyJ9&pageName=ReportSectiond74e36b8ad9a9b2a7980
-
+https://app.powerbi.com/view?r=eyJrIjoiMmRkOWMwN2MtOGU5Ny00NmYzLWIwZDktNDg3OGY2ZjI3YzU1IiwidCI6IjNiNDkxZDU4LWQyMjYtNDUwMC04ZDcyLTk5MGQyYjMyMTg0NyJ9&pageName=ReportSectiond74e36b8ad9a9b2a7980
